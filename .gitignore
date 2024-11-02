@@ -1,4 +1,5 @@
 .idea
+/.venv
 
 main.py
 /notebooks/11_assignment.py
